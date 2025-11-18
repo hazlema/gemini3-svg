@@ -1,0 +1,5 @@
+{
+  "name": "AI SVG Architect",
+  "description": "Generate custom, scalable vector graphics (SVG) instantly using Gemini. Enter a prompt, get clean SVG code.",
+  "requestFramePermissions": []
+}
